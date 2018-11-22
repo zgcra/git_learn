@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/liebiao/liebiao"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#06bd04",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/input/index_1.jpg",
+        "selectedIconPath": "pages/input/index.jpg"
+      },
+      {
+        "pagePath": "pages/liebiao/liebiao",
+        "text": "列表页",
+        "iconPath": "pages/input/liebiao_1.jpg",
+        "selectedIconPath": "pages/input/liebiao.jpg"
+      }
+    ]
+  }
+}

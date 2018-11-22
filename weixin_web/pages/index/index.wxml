@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="content">
+   <view class="section">
+     <swiper autoplay="true" interval="3000" duration="1000">
+        <block wx:for="{{picture}}">
+            <swiper-item>
+               <image src="{{item}}" class="slide-image" width="350" height="300" />
+            </swiper-item>
+        </block>
+     </swiper>
+   </view>
+</view>
+<view>{{"Hello world!"}}</view>
+
