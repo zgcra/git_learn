@@ -1,0 +1,66 @@
+<!--pages/me/me.wxml-->
+<view style="display:flex;flex-direction:row;width:750rpx;height:202rpx;margin-bottom:20rpx;background:#FFFFFF;">
+  <image src="/picture/me/Bitmap1.png" style="width:130rpx;height:130rpx;margin:33rpx 40rpx 39rpx 49rpx"></image>
+  <view style="width:67rpx;height:50rpx;font-size:36rpx;line-height:50rpx;margin:58rpx 21rpx 94rpx 0rpx">Eric</view>
+  <view style="width:194rpx;height:48rpx;margin:61rpx 28rpx 93rpx 0rpx;background:linear-gradient(to right, #FF6042 , #FF9C36);border-radius:100rpx">
+    <view style="width:157rpx;height:37rpx;margin:6rpx 20rpx 5rpx 17rpx;font-size:26rpx;color:#FFFFFF">我想成为兼职</view>
+  </view>
+  <image src="/picture/me/钻石.png" style="width:42rpx;height:39rpx;margin:66rpx 179rpx 97rpx 0rpx;"></image>
+</view>
+<view style="width:112rpx;height:40rpx;padding:19rpx 609rpx 20rpx 29rpx;background:#FFFFFF;color:#1C1A1A;font-size:28rpx;">我的订单</view>
+<view style="width:750rpx;height:3rpx;"></view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:179rpx;background:#FFFFFF;margin-bottom:20rpx">
+  <view style="width:250rpx;height:179rpx">
+    <image src="/picture/me/待付款.png" style="width:66rpx;height:66rpx;margin:26rpx 0rpx 13rpx 115rpx"></image>
+    <view style="width:84rpx;height:40rpx;margin-left:106rpx;line-height:40rpx;font-size:28rpx;color:#1C1A1A">待付款</view>
+  </view>
+  <view style="width:250rpx;height:179rpx">
+    <image src="/picture/me/待收货.png" style="width:66rpx;height:66rpx;margin:26rpx 0rpx 13rpx 89rpx"></image>
+    <view style="width:84rpx;height:40rpx;margin-left:83rpx;line-height:40rpx;font-size:28rpx;color:#1C1A1A">待收货</view>
+  </view>
+  <view style="width:250rpx;height:179rpx">
+    <image src="/picture/me/已完成.png" style="width:66rpx;height:66rpx;margin:26rpx 0rpx 13rpx 65rpx"></image>
+    <view style="width:84rpx;height:40rpx;margin-left:58rpx;line-height:40rpx;font-size:28rpx;color:#1C1A1A">已完成</view>
+  </view>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;padding-bottom:2rpx">
+  <image src="/picture/me/Group1.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">我的服务</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;margin-bottom:20rpx">
+  <image src="/picture/me/Group2.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">我的售后</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;padding-bottom:2rpx">
+  <image src="/picture/me/Group3.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">推荐好友</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;margin-bottom:20rpx">
+  <image src="/picture/me/Group4.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">我的奖励</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;padding-bottom:2rpx">
+  <image src="/picture/me/Group5.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">联系客服</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;padding-bottom:2rpx">
+  <image src="/picture/me/Group6.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">关于我们</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;margin-bottom:20rpx">
+  <image src="/picture/me/Group7.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 275rpx 24rpx 0rpx">更改绑定</text>
+  <text style="width:181rpx;height:42rpx;font-size:30rpx;margin:21rpx 20rpx 25rpx 0rpx">13412134455</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:88rpx;background:#FFFFFF;margin-bottom:60rpx">
+  <image src="/picture/me/Group8.png" style="width:46rpx;height:46rpx;margin:21rpx 28rpx 21rpx 26rpx"></image>
+  <text style="width:128rpx;height:45rpx;font-size:32rpx;margin:19rpx 476rpx 24rpx 0rpx">兼职中心</text>
+  <image src="/picture/me/Copy.png" style="width:16rpx;height:26rpx;margin:31rpx 30rpx 31rpx 0rpx"></image>
+</view>

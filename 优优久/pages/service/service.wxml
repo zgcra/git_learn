@@ -1,0 +1,10 @@
+<!--pages/service/service.wxml-->
+<view style="width:750rpx;height:500rpx;padding-bottom:20rpx;background:#FFFFFF">
+  <image src="/picture/service/Copy1.png" style="width:750rpx;height:350rpx;"></image>
+  <view style="width:690rpx;height:84rpx;font-size:30rpx;line-height:42rpx;margin:30rpx 30rpx 36rpx 30rpx;">车用灭火器年检汽车干粉消防器材车载小型便携式灭火器演示培训</view>
+</view>
+<view style="width:750rpx;height:500rpx;background:#FFFFFF">
+  <image src="/picture/service/Copy2.png" style="width:750rpx;height:350rpx;"></image>
+  <view style="width:690rpx;height:84rpx;font-size:30rpx;line-height:42rpx;margin:30rpx 30rpx 36rpx 30rpx;">车用灭火器年检汽车干粉消防器材车载小型便携式灭
+火器演示培训</view>
+</view>

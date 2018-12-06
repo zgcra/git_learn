@@ -1,0 +1,71 @@
+<view style="width:690rpx;height:60rpx;margin:14rpx 30rpx 14rpx 30rpx;background:#FFFFFF;border-radius:100rpx">
+  <text style="width:243rpx;height:37rpx;margin:10rpx 41rpx 13rpx 41rpx;font-size:26rpx;color:#6F6A6A;">大家都在搜： 灭火器</text>
+</view>
+<view style="display:flex;flex-dicection:row;width:750rpx;height:1124rpx;background:#FFFFFF;">
+  <view style="width:200rpx;height:1066rpx;background:#F5F5F5">
+    <view style="width:200rpx;height:88rpx;background:#FFFFFF">
+      <view style="width:84rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 64rpx 22rpx 52rpx;">灭火器</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+    <view style="width:200rpx;height:88rpx;background:#F5F5F5">
+      <view style="width:112rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 50rpx 22rpx 38rpx;">消防面罩</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+    <view style="width:200rpx;height:88rpx;background:#F5F5F5">
+      <view style="width:84rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 64rpx 22rpx 52rpx;">灭火器</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+    <view style="width:200rpx;height:88rpx;background:#F5F5F5">
+      <view style="width:112rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 50rpx 22rpx 38rpx;">消防面罩</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+    <view style="width:200rpx;height:88rpx;background:#F5F5F5">
+      <view style="width:84rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 64rpx 22rpx 52rpx;">灭火器</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+    <view style="width:200rpx;height:88rpx;background:#F5F5F5">
+      <view style="width:112rpx;height:40rpx;font-size:28rpx;line-height:40rpx;padding:26rpx 50rpx 22rpx 38rpx;">消防面罩</view>
+    </view>
+    <view style="width:200rpx;height:3rpx;background:#E2E2E2"></view>
+  </view>
+  <view style="width:2rpx;height:1066rpx;background:#F5F5F5"></view>
+  <view style="width:273rpx;height:1124rpx;background:#FFFFFF">
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap1.png" style="width:257rpx;height:236rpx;margin:0rpx 3rpx 2rpx 13rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">淮海4kg公斤干粉灭火器</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥45元/年</view>
+    </view>
+    <view style="width:273rpx;height:2rpx;background:#F5F5F5"></view>
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap4.jpg" style="width:257rpx;height:236rpx;margin:0rpx 3rpx 2rpx 13rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">淮海4kg公斤干粉灭火器</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥45元/年</view>
+    </view>
+    <view style="width:273rpx;height:2rpx;background:#F5F5F5"></view>
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap3.jpg" style="width:257rpx;height:236rpx;margin:0rpx 3rpx 2rpx 13rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">淮海4kg公斤干粉灭火器</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥45元/年</view>
+    </view>
+  </view>
+  <view style="width:2rpx;height:1124rpx;background:#F5F5F5"></view>
+  <view style="width:273rpx;height:1124rpx;background:#FFFFFF">
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap4.png" style="width:95rpx;height:236rpx;margin:0rpx 85rpx 2rpx 93rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">火焰战士车载灭火器车用</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥55元/年</view>
+    </view>
+    <view style="width:273rpx;height:2rpx;background:#F5F5F5"></view>
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap3.jpg" style="width:257rpx;height:236rpx;margin:0rpx 3rpx 2rpx 13rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">火焰战士车载灭火器车用</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥55元/年</view>
+    </view>
+    <view style="width:273rpx;height:2rpx;background:#F5F5F5"></view>
+    <view style="width:273rpx;height:372rpx">
+      <image src="/picture/classification/Bitmap6.png" style="width:257rpx;height:236rpx;margin:0rpx 3rpx 2rpx 13rpx;"></image>
+      <view style="height:80rpx;width:257rpx;margin:0rpx 3rpx 6rpx 13rpx;font-size:28rpx;line-height:40rpx;">火焰战士车载灭火器车用</view>
+      <view style="width:165rpx;height:42rpx;margin:0rpx 87rpx 6rpx 21rpx;font-size:30rpx;line-height:42rpx;color:#F91B27">￥55元/年</view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,89 @@
+<!--index.wxml-->
+<view style="width:750rpx;height:372rpx">
+  <image src="/picture/index/AD.png" style="width:750rpx;height:352rpx;">  
+  </image>
+</view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:140rpx;background:#FFFFFF">
+  <view style="width:133rpx;height:140rpx">
+    <view style="height:27rpx"></view>
+    <view style="display:flex;flex-direction:row;width:133rpx;height:113rpx;">
+      <view style="width:45rpx;"></view>
+      <image src="/picture/index/头条.png" style="width:88rpx;height:88rpx;"></image> 
+    </view>
+  </view>
+  <view style="height:140rpx;width:617rpx;">
+    <view style="height:28rpx;"></view>
+    <view style="display:flex;flex-direction:row;height:113rpx;">
+      <view style="width:3rpx;height:90rpx;background:#DBDBDB;margin-left:22rpx"></view>
+      <view style="width:158rpx;margin-left:22rpx">
+        <view style="height:40rpx;width:158rpx;font-size:28rpx;text-align:center;">2018-06-12</view>
+        <view style="height:40rpx;width:158rpx;margin-top:5rpx;font-size:28rpx;text-align:center;">2018-06-12</view>
+      </view>
+      <view style="width:158rpx;margin-left:28rpx">
+        <view style="height:40rpx;width:330rpx;font-size:28rpx;line-height:40rpx;">IT设备租赁已成为新常态</view>
+        <view style="height:40rpx;width:364rpx;margin-top:5rpx;font-size:28rpx;line-height:40rpx;">家用灭火器和商用有何区别？</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view style="height:528rpx;width:750rpx;margin-top:20rpx;background:#FFFFFF">
+  <view style="display:flex;flex-direction:row;height:290rpx;width:750rpx;">
+    <view style="width:374rpx;height:290rpx">
+        <view style="width:192rpx;height:45rpx;margin:20rpx 85rpx 21rpx 97rpx;font-size:32rpx;line-height:45rpx">商用消防设备</view>
+        <view style="width:374rpx;height:221rpx;">
+          <image src="/picture/index/Bitmap1.png" style="width:178rpx;height:178rpx;margin:0rpx 98rpx 22rpx 98rpx;"></image>
+        </view>
+    </view>
+    <view style="height:290rpx;width:3rpx;background:#ECECEC"></view>
+    <view style="width:373rpx;height:290rpx">
+        <view style="width:272rpx;height:45rpx;margin:20rpx 54rpx 21rpx 47rpx;font-size:32rpx;line-height:45rpx">家用/车载消防设备</view>
+        <view style="width:374rpx;height:221rpx;">
+          <image src="/picture/index/Bitmap2.png" style="width:178rpx;height:178rpx;margin:0rpx 98rpx 22rpx 97rpx;"></image>
+        </view>
+    </view>
+  </view>
+  <view style="width:750rpx;height:3rpx;background:#ECECEC"></view>
+  <view style="display:flex;flex-direction:row;height:239rpx;width:750rpx;">
+      <view style="width:250rpx;height=239rpx">
+        <view style="width:120rpx;height:42rpx;margin:30rpx 65rpx 23rpx 65rpx;font-size:30rpx;line-height:42rpx;color:#222020">资讯专区</view>
+        <view style="height:144rpx;width:250rpx">
+          <image src="/picture/index/图层1.png" style="width:120rpx;height:120rpx;margin:0rpx 65rpx 24rpx 65rpx;"></image>
+        </view>
+      </view>
+      <view style="height:240rpx;width:2.5rpx;background:#ECECEC"></view>
+      <view style="width:250rpx;height=239rpx">
+        <view style="width:120rpx;height:42rpx;margin:30rpx 64rpx 23rpx 62rpx;font-size:30rpx;line-height:42rpx;color:#222020">定制服务</view>
+        <view style="height:144rpx;width:250rpx">
+          <image src="/picture/index/图层2.png" style="width:120rpx;height:120rpx;margin:0rpx 62rpx 24rpx 64rpx;"></image>
+        </view>
+      </view>
+      <view style="height:240rpx;width:2.5rpx;background:#ECECEC"></view>
+      <view style="width:250rpx;height=239rpx">
+        <view style="width:120rpx;height:42rpx;margin:30rpx 69rpx 23rpx 61rpx;font-size:30rpx;line-height:42rpx;color:#222020">我的奖励</view>
+        <view style="height:144rpx;width:250rpx">
+          <image src="/picture/index/图层3.png" style="width:120rpx;height:120rpx;margin:0rpx 64rpx 24rpx 66rpx;"></image>
+        </view>
+      </view>
+  </view>
+</view>
+<view style="width:750rpx;height:20rpx;background:#FFFFFF;margin-top:20rpx"></view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:58rpx;background:#FFFFFF;">
+  <view style="width:8rpx;height:40rpx;background:#F91B27"></view>
+  <view style="width:120rpx;height:42rpx;font-size:30rpx;line-height:42rpx;margin-left:16rpx;">热租推荐</view>
+</view>
+<view style="width:750rpx;height:3rpx;background:#ECECEC"></view>
+<view style="display:flex;flex-direction:row;width:750rpx;height:435rpx;background:#FFFFFF">
+  <view style="width:374rpx;height:435rpx;">
+    <view style="height:351rpx;width:374rpx">
+      <image src="/picture/index/Bitmap3.png" style="width:346rpx;height:338rpx;margin:1rpx 8rpx 12rpx 20rpx"></image>
+    </view>
+    <view style="width:330rpx;height:84rpx;margin:0rpx 29rpx 0rpx 15rpx;font-size=30rpx;line-height:42rpx">淮海4kg公斤干粉灭火器商用手提式</view>
+  </view>
+  <view style="width:2rpx;height:435rpx;background:#ECECEC"></view>
+  <view style="width:374rpx;height:435rpx;">
+    <view style="height:351rpx;width:374rpx">
+      <image src="/picture/index/Bitmap4.png" style="width:130rpx;height:322rpx;margin:11rpx 132rpx 18rpx 112rpx"></image>
+    </view>
+    <view style="width:330rpx;height:84rpx;margin:0rpx 29rpx 0rpx 15rpx;font-size=30rpx;line-height:42rpx">火焰战士车载灭火器汽车车用灭火筒</view>
+  </view>
+</view>

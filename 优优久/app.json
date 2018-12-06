@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me",
+    "pages/classification/classification",
+    "pages/service/service"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F1000D",
+    "navigationBarTitleText": "优优久",
+    "navigationBarTextStyle": "white"
+  },
+    "tabBar": {
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "selectedColor":"#F91B27",
+          "iconPath":"picture/index/homepage.png",
+          "selectedIconPath":"picture/index/homepage_c.png",
+          "text": "首页"
+        },
+        {
+          "pagePath": "pages/classification/classification",
+          "selectedColor": "#F91B27",
+          "iconPath": "picture/classification/manage.png",
+          "selectedIconPath": "picture/classification/manage_c.png",
+          "text": "分类"
+        },
+        {
+          "pagePath":"pages/service/service",
+          "selectedColor": "#F91B27",
+          "iconPath": "picture/service/order.png",
+          "selectedIconPath": "picture/service/order_c.png",
+          "text":"服务"
+        },
+        {
+          "pagePath":"pages/me/me",
+          "selectedColor": "#F91B27",
+          "iconPath": "picture/me/mine.png",
+          "selectedIconPath": "picture/me/mine_c.png",
+          "text":"我的"
+        }
+      ]
+    }
+}
